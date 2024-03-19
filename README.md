@@ -77,7 +77,10 @@ print("RMSE= ",rmse)
 ![Screenshot (43)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/359e3c3d-8ef5-415c-bdb3-533e8bca2a48)
 ## MSE, MAE, RMSE:
 ![Screenshot (44)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/8f2a47fa-6ab0-453c-abc3-81ea9ed86ba2)
-
+## Training Set:
+![Screenshot (45)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/7ba6f060-0985-4637-a756-916f2f0616b3)
+## Testing Set:
+![Screenshot (46)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/7b28d097-d148-4b3f-b3c4-2c67d3b3d2b3)
 
 
 
