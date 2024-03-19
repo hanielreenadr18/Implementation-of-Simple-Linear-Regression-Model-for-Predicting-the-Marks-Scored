@@ -67,6 +67,18 @@ print("RMSE= ",rmse)
 ## Output:
 ## Head:
 ![Screenshot (39)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/b3b64c80-391b-4438-8e04-9d65a7c70ab2)
+## Tail:
+![Screenshot (42)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/29f455d1-ff6a-4523-b5e5-789722ec2d8a)
+## X and Y values split:
+![Screenshot (41)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/d115a32d-eed2-4638-a89a-1b07c410d80d)
+## Info:
+![Screenshot (40)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/5586c735-74d6-4e41-8497-fe8b695dbd69)
+## Y pred:
+![Screenshot (43)](https://github.com/hanielreenadr18/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/155225915/359e3c3d-8ef5-415c-bdb3-533e8bca2a48)
+
+
+
+
 
 
 
