@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
-```
+`````python
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Haniel Reena D R
@@ -62,7 +62,7 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 */
-```
+`````
 
 ## Output:
 ## Head:
